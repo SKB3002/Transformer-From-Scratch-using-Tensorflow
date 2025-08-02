@@ -17,7 +17,7 @@ This project is a **complete, from-scratch implementation of the original Transf
 Example: **Self-Attention in the Encoder**  
 - Sentence: `"I made transformer from scratch"`
 - Observe how each word attends to others in the sequence:
-- ![alt text]((https://github.com/SKB3002/Transformer-From-Scratch-using-Tensorflow/blob/main/Images/Heatmap%20of%20attention%20weights.png)
+- ![alt text]((https://github.com/SKB3002/Transformer-From-Scratch-using-Tensorflow/blob/main/Images/Heatmap%20of%20attention%20weights.png?raw=true)
 
 
 ## 🔹 Key Learnings
