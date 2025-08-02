@@ -9,7 +9,7 @@ This project is a **complete, from-scratch implementation of the original Transf
 
 ## 📂 Project Structure
 - `transformer_scratch.ipynb` – Full step-by-step implementation
-- 'src' - Code broken down into smallc hunks for better understanding
+- `src` - Code broken down into smallc hunks for better understanding
 - `images/` – Sample attention maps and architecture diagrams
 - `requirements.txt` – Required dependencies
 
@@ -17,7 +17,7 @@ This project is a **complete, from-scratch implementation of the original Transf
 Example: **Self-Attention in the Encoder**  
 - Sentence: `"I made transformer from scratch"`
 - Observe how each word attends to others in the sequence:
-- ![alt text](http://url/to/img.png)
+- ![alt text]((https://github.com/SKB3002/Transformer-From-Scratch-using-Tensorflow/blob/main/Images/Heatmap%20of%20attention%20weights.png)
 
 
 ## 🔹 Key Learnings
