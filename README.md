@@ -9,7 +9,7 @@ This project is a **complete, from-scratch implementation of the original Transf
 
 ## 📂 Project Structure
 - `transformer_scratch.ipynb` – Full step-by-step implementation
-- `src` - Code broken down into smallc hunks for better understanding
+- `src` - Code broken down into small chunks for better understanding
 - `images/` – Sample attention maps and architecture diagrams
 - `requirements.txt` – Required dependencies
 
